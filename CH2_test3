@@ -10,9 +10,9 @@
   <caption>나의 셀카</caption>
   <tbody>
     <tr>
-      <td><img src="spongebob.png"></td>
-      <td><img src="jing.png"></td>
-      <td><img src="ddungi.png"></td>
+      <td><img src="spongebob.png" width="220" height="200"></td>
+      <td><img src="jing.png" width="220" height="200"></td>
+      <td><img src="ddungi.png" width="180" height="200"></td>
     </tr>
   </tbody>
 </table>
