@@ -10,7 +10,7 @@
   <fieldset>
     <legend>Login</legend>
     <lable>
-      Username <input type="text" size="15" value=""><br>
+      Username <input type="text" size="15" value="">
       Password <input type="password" size="15" balue="">
     </lable>
   </fieldset>
